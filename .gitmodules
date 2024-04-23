@@ -7,3 +7,6 @@
 [submodule "payment/gateway/stripe"]
 	path = payment/gateway/stripe
 	url = https://github.com/alexmorrisnz/moodle-paygw_stripe
+[submodule "enrol/autoenrol"]
+	path = enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol
