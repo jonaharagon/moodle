@@ -4,3 +4,6 @@
 [submodule "admin/tool/certificate"]
 	path = admin/tool/certificate
 	url = https://github.com/moodleworkplace/moodle-tool_certificate
+[submodule "payment/gateway/stripe"]
+	path = payment/gateway/stripe
+	url = https://github.com/alexmorrisnz/moodle-paygw_stripe
