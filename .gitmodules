@@ -10,3 +10,6 @@
 [submodule "enrol/autoenrol"]
 	path = enrol/autoenrol
 	url = https://github.com/bobopinna/moodle-enrol_autoenrol
+[submodule "payment/gateway/bank"]
+	path = payment/gateway/bank
+	url = https://github.com/unesco-iesalc/paygw_bank
