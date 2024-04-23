@@ -1,0 +1,6 @@
+[submodule "mod/coursecertificate"]
+	path = mod/coursecertificate
+	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate
+[submodule "admin/tool/certificate"]
+	path = admin/tool/certificate
+	url = https://github.com/moodleworkplace/moodle-tool_certificate
