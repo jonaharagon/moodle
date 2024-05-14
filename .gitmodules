@@ -13,3 +13,6 @@
 [submodule "payment/gateway/bank"]
 	path = payment/gateway/bank
 	url = https://github.com/unesco-iesalc/paygw_bank
+[submodule "theme/space"]
+	path = theme/space
+	url = git@github.com:techlore/moodle-space.git
